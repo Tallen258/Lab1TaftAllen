@@ -4,4 +4,9 @@ int c = a + b;
 Console.WriteLine(c);
 c = a-b;
 Console.WriteLine(c);
-
+c= a*b;
+Console.WriteLine (c);
+c= a/b;
+Console.WriteLine(c);
+c= a+b -12 *17;
+Console.WriteLine(c);
